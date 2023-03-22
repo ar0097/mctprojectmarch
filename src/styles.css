@@ -1,0 +1,206 @@
+.contact {
+  color: red;
+  margin-top: 150px;
+}
+.background {
+  background-color: black;
+}
+.Home {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  padding: 50px;
+  padding-top: 30px;
+}
+.welcome {
+  margin-top: 200px;
+  text-align: center;
+  font-weight: 800;
+}
+.container {
+  background-image: linear-gradient(to right, black, red);
+  width: 1400px;
+  height: 500px;
+  color: white;
+  padding-top: 40px;
+  margin-top: 10px;
+}
+.explore {
+  color: blue;
+  margin-left: 600px;
+  margin-top: 30px;
+  background-color: linear-gradient(to right, black, red);
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.login {
+  display: flex;
+  box-shadow: 1px 2px 9px black;
+  width: 93.3vw;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.loginform_container {
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 50px; */
+  padding: 20px;
+}
+.login_form {
+  display: flex;
+  flex-direction: column;
+}
+.email {
+  width: 100%px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 20px;
+  background-color: lightgray;
+  border: none;
+}
+.password {
+  width: 100%;
+  background-color: lightgray;
+  border: none;
+  height: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.login-part {
+  display: flex;
+  gap: 150px;
+}
+.login-with {
+  text-align: center;
+}
+.image_part {
+  height: 50%;
+  width: 50%;
+}
+.imag {
+  height: 70%;
+  width: 550px;
+}
+.rememberme {
+  display: flex;
+  justify-content: space-between;
+}
+.facebook {
+  text-align: center;
+  color: #fc2294;
+}
+.login-button {
+  width: 200px;
+  padding: 10px;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  text-decoration: none;
+  text-align: center;
+}
+.createaccount-button {
+  width: 200px;
+  padding: 10px;
+  color: red;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+.check_box {
+  border: 1px solid #fc2294;
+}
+
+.navbar_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  gap: 40px;
+  color: aliceblue;
+  text-decoration: none;
+  margin-top: 10px;
+  margin-right: 150px;
+  width: 90vw;
+  height: 60px;
+  background-color: black;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-right: 100px;
+}
+.link {
+  color: aliceblue;
+  text-decoration: none;
+  padding-top: 20px;
+}
+
+.product_container {
+  display: flex;
+  width: 90vw;
+  height: 70vh;
+  margin-top: 70px;
+  margin-left: 50px;
+
+  box-shadow: 1px 2px 9px black;
+}
+.left_panel {
+  height: 100%;
+  width: 35%;
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.right_panel_list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
+.user_container {
+  width: 100vw;
+}
+.lorem {
+  width: 100vw;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+h1 {
+  text-align: center;
+}
+.form {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+table {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.head_part {
+  background-color: black;
+
+  color: aliceblue;
+  text-align: left;
+  border: none;
+  width: 100%;
+  height: 40px;
+}
+/* th{
+  width: 100%;
+} */
+.image {
+  width: 250px;
+}
+.name {
+  width: 250px;
+}
+.mail {
+  width: 400px;
+}
+.gender {
+  width: 240px;
+}
+.body_part {
+  margin-top: 40px;
+}
