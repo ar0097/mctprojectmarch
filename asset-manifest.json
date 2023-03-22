@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mctprojectmarch/static/css/main.68981b3e.css",
+    "main.js": "/mctprojectmarch/static/js/main.5dc7927e.js",
+    "index.html": "/mctprojectmarch/index.html",
+    "main.68981b3e.css.map": "/mctprojectmarch/static/css/main.68981b3e.css.map",
+    "main.5dc7927e.js.map": "/mctprojectmarch/static/js/main.5dc7927e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68981b3e.css",
+    "static/js/main.5dc7927e.js"
+  ]
+}
